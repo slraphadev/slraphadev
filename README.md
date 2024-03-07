@@ -46,14 +46,14 @@
 ### Plan to Learn Later |</>| Planejo Aprender Futuramente
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+ <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/nodejs/nodejs.svg" width="40" height="40" alt="Node.js"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
 </div>
 
 ### Also Interested |</>| Também Tenho Interesse
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+ <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/java/java.svg" width="40" height="40" alt="Java"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </div>
@@ -80,6 +80,6 @@
 
 ### Deploy |</>| Publicação
 <div>
- <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/cf846a2550be6e669b14945f266c52ce941c98b0/public/icons/vercel/vercel-light.svg" width="40" height="40" alt="Vercel"/>
+ <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/vercel/vercel-light.svg" width="40" height="40" alt="Vercel"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify"/>
 </div>
