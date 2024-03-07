@@ -9,7 +9,7 @@ PLACEHOLDER
  <h4>Tenho 17 anos, atualmente cursando Sistemas de Informação na Universidade Estadual de Montes Claros (Unimontes).</h4>
  <h3><img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/br.svg" width="15" height="15"/>   Based in Montes Claros, Minas Gerais, Brazil.</h3>
  <h4>Localizado em Montes Claros, Minas Gerais, Brasil.</h4>
- <h3><img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/us.svg" width="15" height="15"/>   furthermore, I also work as an English Teacher at a local Language School.</h3>
+ <h3><img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/us.svg" width="15" height="15"/>   Furthermore, I also work as an English Teacher at a local Language School.</h3>
  <h4>Além disso, também trabalho como Professor de Inglês em uma Escola de Idiomas local.</h4>
 </div>
 
