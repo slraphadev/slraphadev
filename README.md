@@ -1,7 +1,8 @@
-## Hey there. Please call me *Rapha*! Welcome to my profile.
+## Hey there. Please call me *Rapha*! Welcome to my profile. 👋
+<h4>Oie. Pode me chamar de *Rapha*! Seja bem-vindo ao meu perfil.</h4>
 PLACEHOLDER
 
-## Personal Info
+## Personal Info 🪪
 
 ### About Me |</>| Sobre Mim
 <div>
@@ -21,7 +22,7 @@ PLACEHOLDER
 </br>
 </br>
  
-## Tech and Tools |</>| Tecnologias e Ferramentas
+## Tech and Tools |</>| Tecnologias e Ferramentas 🤓
 
 ### Studying |</>| Estudando
 <div>
@@ -46,7 +47,7 @@ PLACEHOLDER
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </div>
 
-## Softwares |</>| Programas
+## Softwares |</>| Programas 🖥️
 
 ### Coding |</>| Programação
 <div>
@@ -64,10 +65,4 @@ PLACEHOLDER
 ### Organization |</>| Organização
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40" alt="Notion"/>
-</div>
-
-<div>
-<a href="https://github.com/slraphadev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slraphadev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=slraphadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
