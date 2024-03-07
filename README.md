@@ -16,13 +16,11 @@
 
 ### My Socials |</>| Minhas Redes
 <div>
- <a href="https://www.instagram.com/slrapha" target="_blank"><img align="left" alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" target="_blank"></a>
- <a href="https://www.x.com/slrapha" target="_blank"><img align="left" alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" target="_blank"></a>
- <a href="https://www.github.com/slraphadev" target="_blank"><img align="left" alt="Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" target="_blank"></a>
- <a href="https://www.gitlab.com/slraphadev" target="_blank"><img align="left" alt="Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" target="_blank"></a>
+ <a href="https://www.instagram.com/slrapha" target="_blank"><img alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" target="_blank"></a>
+ <a href="https://www.x.com/slrapha" target="_blank"><img alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" target="_blank"></a>
+ <a href="https://www.github.com/slraphadev" target="_blank"><img alt="Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" target="_blank"></a>
+ <a href="https://www.gitlab.com/slraphadev" target="_blank"><img alt="Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" target="_blank"></a>
 </div>
-</br>
-</br>
  
 ## Tech and Tools |</>| Tecnologias e Ferramentas 🤓
 
