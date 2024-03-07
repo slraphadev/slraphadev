@@ -1,4 +1,4 @@
-## Hey there. Please call me Rapha! Welcome to my profile.
+## Hey there. Please call me *Rapha*! Welcome to my profile.
 PLACEHOLDER
 
 ## Personal Info
@@ -68,6 +68,6 @@ PLACEHOLDER
 
 <div>
 <a href="https://github.com/slraphadev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?slraphadev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?slraphadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slraphadev&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=slraphadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
