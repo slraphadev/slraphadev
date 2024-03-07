@@ -9,13 +9,13 @@
 </br>
   
 ### About Me
-<p>I'm 17yo, currently studying Information Systems at State University of Montes Claros (Unimontes).</p>
-<p>Currently based in Montes Claros, Minas Gerais, Brasil.</p>
-<p>📍In my free time, I work as an English Teacher at a local Language School.</p> <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" width="40" height="40"/>
+<p>🎓I'm 17yo, currently studying Information Systems at State University of Montes Claros (Unimontes).</p>
+<p><img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/br.svg" width="15" height="15"/>   Currently based in Montes Claros, Minas Gerais, Brasil.</p>
+<p><img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/us.svg" width="15" height="15"/>   In my free time, I work as an English Teacher at a local Language School.</p> 
 
 ### Currently Learning
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>
 </div>
