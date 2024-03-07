@@ -2,8 +2,8 @@
 
 ### My Socials
 <div>
- <a href="https://www.instagram.com/slrapha" target="_blank"><img align="left" alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" />
- <a href="https://www.x.com/slrapha" target="_blank"><img align="left" alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" />
+ <a href="https://www.instagram.com/slrapha" target="_blank"><img align="left" alt="Instagram" width="30" height="30" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" />
+ <a href="https://www.x.com/slrapha" target="_blank"><img align="left" alt="Instagram" width="30" height="30" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" />
 </div>
 </br>
 </br>
@@ -15,7 +15,7 @@
 
 ### Currently Learning
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </div>
