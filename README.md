@@ -80,6 +80,6 @@
 
 ### Deploy |</>| Publicação
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel"/>
+ <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/cf846a2550be6e669b14945f266c52ce941c98b0/public/icons/vercel/vercel-light.svg" width="40" height="40" alt="Vercel"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify"/>
 </div>
