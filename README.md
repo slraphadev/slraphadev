@@ -1,5 +1,5 @@
-## Hey there. Please call me *Rapha*! Welcome to my profile. 👋
-<h4>Oie. Pode me chamar de *Rapha*! Seja bem-vindo ao meu perfil.</h4>
+## Hey there. Please call me Rapha! Welcome to my profile. 👋
+<h4>Oie. Pode me chamar de Rapha! Seja bem-vindo ao meu perfil.</h4>
 <img src="https://github.com/slraphadev/slraphadev/blob/main/src/github%20header.png">
 
 ## Personal Info 🪪
