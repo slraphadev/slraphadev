@@ -12,7 +12,7 @@
  <h4>Iniciando meus estudos com desenvolvimento Front-end, também planejo aprender desnvolvimento Back-end.</h4>
  <h3><img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/br.svg" width="15" height="15"/>   Based in Montes Claros, Minas Gerais, Brazil.</h3>
  <h4>Localizado em Montes Claros, Minas Gerais, Brasil.</h4>
- <h3><img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/us.svg" width="15" height="15"/>   Furthermore, I also work as a English Teacher at a local Language School.</h3>
+ <h3><img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/us.svg" width="15" height="15"/>   Furthermore, I also work as an English Teacher at a local Language School.</h3>
  <h4>Além disso, também trabalho como Professor de Inglês em uma Escola de Idiomas local.</h4>
 </div>
 
