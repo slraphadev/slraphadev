@@ -6,8 +6,8 @@
 
 ### About Me |</>| Sobre Mim
 <div>
- <h3>🎓I'm 17, currently studying Information Systems at the State University of Montes Claros (Unimontes).</h3>
- <h4>Tenho 17 anos, atualmente cursando Sistemas de Informação na Universidade Estadual de Montes Claros (Unimontes).</h4>
+ <h3>🎓I'm 18, currently studying Information Systems at the State University of Montes Claros (Unimontes).</h3>
+ <h4>Tenho 18 anos, atualmente cursando Sistemas de Informação na Universidade Estadual de Montes Claros (Unimontes).</h4>
  <h3>😺Starting my studies with Front-end development, I also plan on learning Back-end development.</h3>
  <h4>Iniciando meus estudos com desenvolvimento Front-end, também planejo aprender desnvolvimento Back-end.</h4>
  <h3><img src="https://github.com/HatScripts/circle-flags/blob/gh-pages/flags/br.svg" width="15" height="15"/>   Based in Montes Claros, Minas Gerais, Brazil.</h3>
