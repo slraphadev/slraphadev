@@ -18,9 +18,9 @@
 
 ### My Socials |</>| Minhas Redes
 <div>
- <a href="https://www.instagram.com/slrapha" target="_blank"><img alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/instagram/instagram.svg" target="_blank"></a>
- <a href="https://www.x.com/slrapha" target="_blank"><img alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/x/x-light.svg" target="_blank"></a>
- <a href="https://www.github.com/slraphadev" target="_blank"><img alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/github/github-light.svg" target="_blank"></a>
+ <a href="https://www.instagram.com/slrapha" target="_blank"><img alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/instagram/instagram.svg" target="_blank"></a>
+ <a href="https://www.x.com/slrapha" target="_blank"><img alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/x/x-light.svg" target="_blank"></a>
+ <a href="https://www.github.com/slraphadev" target="_blank"><img alt="Instagram" width="40" height="40" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/github/github-light.svg" target="_blank"></a>
  <a href="https://www.gitlab.com/slraphadev" target="_blank"><img alt="Instagram" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" target="_blank"></a>
 </div>
  
@@ -47,7 +47,7 @@
 ### Plan to Learn Later |</>| Planejo Aprender Futuramente
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
- <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/nodejs/nodejs.svg" width="40" height="40" alt="Node.js"/>
+ <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/nodejs/nodejs.svg" width="40" height="40" alt="Node.js"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
  <img src="https://miro.medium.com/v2/resize:fit:1400/1*Klh1l7wkoG6PDPb9A5oCHQ.png" width="40" height="40" alt="Angular"/>
@@ -58,7 +58,7 @@
 
 ### Also Interested |</>| Também Tenho Interesse
 <div>
- <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/java/java.svg" width="40" height="40" alt="Java"/>
+ <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/java/java.svg" width="40" height="40" alt="Java"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
 </div>
@@ -87,6 +87,6 @@
 
 ### Deploy |</>| Publicação
 <div>
- <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/icons/vercel/vercel-light.svg" width="40" height="40" alt="Vercel"/>
+ <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/vercel/vercel-light.svg" width="40" height="40" alt="Vercel"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify"/>
 </div>
