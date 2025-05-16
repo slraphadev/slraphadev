@@ -41,7 +41,7 @@
  <img src="https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/technology/mongodb/mongodb.svg" width="40" height="40" alt="MongoDB"/>
 </div>
 
-### Also Interested |</>| Também Tenho Interesse 🤓
+### Also Interested |</>| Também Tenho Interesse
 
 <div>
  <img src="https://github.com/dheereshagrwal/coloured-icons/blob/master/public/logos/technology/java/java.svg" width="40" height="40" alt="Java"/>
