@@ -2,14 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/slraphadev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=2C9DB7&center=true&vCenter=true&width=640&lines=Desenvolvedor+de+software+%F0%9F%9A%80;Automa%C3%A7%C3%A3o+de+processos+com+n8n+%E2%9A%99%EF%B8%8F;RAG+%C2%B7+WhatsApp+%C2%B7+Back-end+%F0%9F%A4%96;Building+systems+that+reach+production+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1800&color=8B5CF6&center=true&vCenter=true&width=640&lines=Desenvolvedor+de+software+%F0%9F%9A%80;Automa%C3%A7%C3%A3o+de+processos+com+n8n+%E2%9A%99%EF%B8%8F;RAG+%C2%B7+WhatsApp+%C2%B7+Back-end+%F0%9F%A4%96;Building+systems+that+reach+production+%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://slrapha.com/"><img alt="Site EN" src="https://img.shields.io/badge/Website-EN-2C9DB7?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://slrapha.com.br/"><img alt="Site PT" src="https://img.shields.io/badge/Site-PT--BR-009C3B?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/slrapha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rapha_Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://slrapha.com/"><img alt="Site EN" src="https://img.shields.io/badge/Website-EN-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://slrapha.com.br/"><img alt="Site PT" src="https://img.shields.io/badge/Site-PT--BR-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rapha_Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/slrapha"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@slrapha-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
@@ -65,12 +65,21 @@ My goal is to become a full-stack developer who combines robust systems with int
 
 ## 🎯 Foco atual · Current focus
 
-| | |
-|---|---|
-| 🤖 **Automação e IA** | Assistentes com RAG integrados ao WhatsApp e fluxos com n8n |
-| ⚙️ **Back-end** | APIs com Python e Node.js |
-| 🏗️ **Engenharia** | Arquitetura de sistemas e boas práticas de software |
-| 🧑‍💻 **Desenvolvimento assistido** | Fluxo de trabalho com agentes de programação (Claude Code, Cursor, Codex, Antigravity), sempre com revisão, testes e responsabilidade sobre o que vai para produção<br><sub>Agent-assisted workflow (Claude Code, Cursor, Codex, Antigravity), always backed by review, testing and ownership of what ships to production</sub> |
+- **🤖 Automação e IA**<br>
+  Assistentes com RAG integrados ao WhatsApp e fluxos com n8n<br>
+  <sub>RAG assistants integrated with WhatsApp and n8n workflows</sub>
+
+- **⚙️ Back-end**<br>
+  APIs com Python e Node.js<br>
+  <sub>APIs built with Python and Node.js</sub>
+
+- **🏗️ Engenharia**<br>
+  Arquitetura de sistemas e boas práticas de software<br>
+  <sub>Systems architecture and software engineering best practices</sub>
+
+- **🧑‍💻 Desenvolvimento assistido**<br>
+  Agentes de programação (Claude Code, Cursor, Codex, Antigravity) com revisão, testes e responsabilidade sobre o que vai para produção<br>
+  <sub>Coding agents (Claude Code, Cursor, Codex, Antigravity) backed by review, testing and ownership of what ships to production</sub>
 
 <br>
 
@@ -78,4 +87,4 @@ My goal is to become a full-stack developer who combines robust systems with int
   <sub>Aberto a conversas sobre tecnologia, automação e educação digital · Open to chat about tech, automation and digital education</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1e0b36,100:632b9b&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:632b9b,100:1e0b36&section=footer" alt="Footer"/>
