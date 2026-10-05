@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://slrapha.com/"><img alt="Site EN" src="https://img.shields.io/badge/Website-EN-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://slrapha.com.br/"><img alt="Site PT" src="https://img.shields.io/badge/Site-PT--BR-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rapha_Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/slrapha/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rapha_Sales-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/slrapha"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@slrapha-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
